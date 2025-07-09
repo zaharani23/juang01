@@ -347,9 +347,14 @@ form input {
 }
 
 .beranda .gabungall {
-    width: 100%;
     box-sizing: border-box;
 }
+
+.right-column {
+  flex-direction: column;
+  
+}
+
  }
 
 
