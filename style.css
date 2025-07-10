@@ -451,3 +451,69 @@ min-height: 100vh;
 .kepala h1 {
     font-size: 100px;
 }
+.fill1 {
+   display: flex;
+    justify-content: center;
+    background-color: #C9B194;
+    gap: 3em;
+    box-shadow: -10px 10px 0 #92845c;
+    margin: 45px;
+}
+
+.isifill1 {
+  padding-top: 260px;
+  padding-left: 155px;
+}
+
+.isifill1 > h3 {
+  font-size: 25px;
+}
+
+.fill1 > img {
+  width: 75%;
+}
+
+.fill2 {
+   display: flex;
+    justify-content: center;
+    background-color: #efa9eb;
+    gap: 3em;
+    box-shadow: -10px 10px 0 #c03bae;
+    margin: 45px;
+}
+
+.isifill2 {
+  padding-top: 260px;
+  padding-left: 100px;
+}
+
+.fill2 > img {
+  width: 75%;
+}
+
+.isifill2 > h3 {
+  font-size: 25px;
+}
+
+.fill3 {
+   display: flex;
+    justify-content: center;
+    background-color: #bc9a7e;
+    gap: 3em;
+    box-shadow: -10px 10px 0 #8d7e67;
+    margin: 45px;
+}
+
+.isifill3 {
+  padding-top: 300px;
+  padding-left: 100px;
+}
+
+.fill3 > img {
+  width: 64%;
+  height: 50%;
+}
+
+.isifill3 > h3 {
+  font-size: 25px;
+}
