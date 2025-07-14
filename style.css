@@ -529,41 +529,26 @@ min-height: 100vh;
 
 .colom {
   width: 300px;
-  background-color: rgb(185, 53, 53);
+  
   margin: 50px;
+  box-shadow: -1px 1px 4px 1px  #080808; 
 }
 
   .colom img {
-    width: 100%;
-  height: auto;
-  display: block;
+  width: 100%;
   }
 
   .colom p {
-            /* position: absolute; */
-            top: 45px;
-            /* left: 35px; */
-            /* width: 35px; */
-            height: 35px;
+    background-color: rgb(255, 255, 255);
             text-align: center;
-            /* line-height: 35px; */
   }
 
   main > h1 {
     text-align: center;
     margin-top: 20px;
     font-weight: bold;
+    font-weight: bold;
   }
- 
-   /* .speaking1 {
-    display: flex;
-    align-items: center;
-  }
-
-  .speaking2 {
-    display: flex;
-    align-items: center;
-  } */
 
   .speaking1 {
   display: grid;
@@ -573,6 +558,7 @@ min-height: 100vh;
   font-family: Arial, sans-serif;
   max-width: 1000px;
   margin: auto;
+  line-height: 1.5;
 }
 
 .speaking2 {
@@ -583,6 +569,9 @@ min-height: 100vh;
   font-family: Arial, sans-serif;
   max-width: 1000px;
   margin: auto;
+  line-height: 1.5;
 }
+
+
 
 
